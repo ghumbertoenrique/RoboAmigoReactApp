@@ -3,5 +3,7 @@ Este Proyecto fue creado por Humberto Gonzalez, Es una aplicacion sencilla de Re
 Para correr el repositorio
 
 Clona este repositorio
+
 Ejecuta npm install
+
 Ejecuta npm start
